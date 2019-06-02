@@ -1,8 +1,0 @@
-@{selected|wtype}&{template:simple} @{selected|rtype}?{Stat
-|Strength,+[[@{selected|strength_mod}]][STR] ]]&#125;&#125; {{rname=^{strength-u&#125;&#125;&#125; {{mod=[[ [[@{selected|strength_mod}]][STR] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|strength_mod}]][STR] ]]
-|Dexterity,+[[@{selected|dexterity_mod}]][DEX] ]]&#125;&#125; {{rname=^{dexterity-u&#125;&#125;&#125; {{mod=[[ [[@{selected|dexterity_mod}]][DEX] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|dexterity_mod}]][DEX] ]]
-|Constitution,+[[@{selected|constitution_mod}]][CON] ]]&#125;&#125; {{rname=^{constitution-u&#125;&#125;&#125; {{mod=[[ [[@{selected|constitution_mod}]][CON] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|constitution_mod}]][CON] ]]
-|Intelligence,+[[@{selected|intelligence_mod}]][INT] ]]&#125;&#125; {{rname=^{intelligence-u&#125;&#125;&#125; {{mod=[[ [[@{selected|intelligence_mod}]][INT] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|intelligence_mod}]][INT] ]]
-|Wisdom,+[[@{selected|wisdom_mod}]][WIS] ]]&#125;&#125; {{rname=^{wisdom-u&#125;&#125;&#125; {{mod=[[ [[@{selected|wisdom_mod}]][WIS] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|wisdom_mod}]][WIS] ]]
-|Charisma,+[[@{selected|charisma_mod}]][CHA] ]]&#125;&#125; {{rname=^{charisma-u&#125;&#125;&#125; {{mod=[[ [[@{selected|charisma_mod}]][CHA] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|charisma_mod}]][CHA] ]]
-}}} @{selected|global_skill_mod} @{selected|charname_output}
