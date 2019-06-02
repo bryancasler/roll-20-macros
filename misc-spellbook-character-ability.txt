@@ -1,0 +1,12 @@
+/w "@{character_name}" &{template:default} {{name=@{character_name} Spellcasting}} {{ Spell DC @{spell_save_dc}=+@{spell_attack_bonus} to hit with spell attacks}}{{Cantrips (At Will)=
+[@{repeating_spell-cantrip_$0_spellname}](~@{character_id}|repeating_spell-cantrip_$0_spell)
+[@{repeating_spell-cantrip_$1_spellname}](~@{character_id}|repeating_spell-cantrip_$1_spell)
+[@{repeating_spell-cantrip_$2_spellname}](~@{character_id}|repeating_spell-cantrip_$2_spell)
+[@{repeating_spell-cantrip_$3_spellname}](~@{character_id}|repeating_spell-cantrip_$3_spell)
+}}{{1st (@{lvl1_slots_expended}/@{lvl1_slots_total} Slots Used)=
+[@{repeating_spell-1_$0_spellname}](~@{character_id}|repeating_spell-1_$0_spell)
+[@{repeating_spell-1_$1_spellname}](~@{character_id}|repeating_spell-1_$1_spell)
+[@{repeating_spell-1_$2_spellname}](~@{character_id}|repeating_spell-1_$2_spell)
+[@{repeating_spell-1_$3_spellname}](~@{character_id}|repeating_spell-1_$3_spell)
+[@{repeating_spell-1_$4_spellname}](~@{character_id}|repeating_spell-1_$4_spell)
+}}
