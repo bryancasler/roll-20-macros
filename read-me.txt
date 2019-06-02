@@ -1,0 +1,8 @@
+REF: https://gist.github.com/AndruC/454c3242917050a0dadd44956dade699
+REF: https://wiki.roll20.net/Dungeons_and_Dragons_5th_Edition
+REF: https://wiki.roll20.net/5th_Edition_OGL_by_Roll20
+REF: https://app.roll20.net/forum/post/5591522/5e-ogl-universal-ability-check-macro-updated-for-v2-dot-0
+REF: https://app.roll20.net/forum/post/5591512/5e-ogl-universal-saving-throw-macro-updated-for-v2-dot-0
+REF: https://app.roll20.net/forum/post/5591526/5e-ogl-universal-skill-check-macro-updated-for-v2-dot-0
+REF: https://www.grumpyolddm.com/2017/06/useful-roll20-macros.html
+REF: https://wiki.roll20.net/Macros
