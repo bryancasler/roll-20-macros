@@ -1,1 +1,1 @@
-@{selected|token_name}'s AC: @{Selected|ac}
+@{selected|token_name}'s AC is @{Selected|ac}
