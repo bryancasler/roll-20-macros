@@ -9,3 +9,4 @@ REF: https://wiki.roll20.net/Macros
 REF: https://wiki.roll20.net/Macros#Using_a_Targeted_Token_with_a_Macro
 REF: https://github.com/poltergeisha/Roll20-Like-A-Boss/blob/master/Macros.md
 REF: https://wiki.roll20.net/Dice_Reference
+REF: https://app.roll20.net/forum/post/4899820/spell-book-macro/?pageforid=4899820#post-4899820
