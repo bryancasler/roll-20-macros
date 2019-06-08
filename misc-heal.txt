@@ -1,0 +1,2 @@
+!token-mod --set bar3_value|+[[?{Type|Common,2d4+2|Greater,4d4+4|Superior,8d4+4|Supreme,10d4+20|Other,?{Custom Heal&#125;}]]  --ids @{target|Target 1|token_id}
+/em healed @{target|Target 1|token_name}.
