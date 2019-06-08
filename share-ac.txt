@@ -1,1 +1,1 @@
-/em has an AC of @{selected|ac}
+@{selected|character_name} has an AC of @{selected|ac}
