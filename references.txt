@@ -6,3 +6,6 @@ REF: https://app.roll20.net/forum/post/5591512/5e-ogl-universal-saving-throw-mac
 REF: https://app.roll20.net/forum/post/5591526/5e-ogl-universal-skill-check-macro-updated-for-v2-dot-0
 REF: https://www.grumpyolddm.com/2017/06/useful-roll20-macros.html
 REF: https://wiki.roll20.net/Macros
+REF: https://wiki.roll20.net/Macros#Using_a_Targeted_Token_with_a_Macro
+REF: https://github.com/poltergeisha/Roll20-Like-A-Boss/blob/master/Macros.md
+REF: https://wiki.roll20.net/Dice_Reference
