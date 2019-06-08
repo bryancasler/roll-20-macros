@@ -1,0 +1,2 @@
+/me @{selected|character_name} has @{selected|HP} HP of @{selected|HP|max}
+?{Name of Query|Label 1, value1|Label 2, value2}
