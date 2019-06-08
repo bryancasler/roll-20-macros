@@ -1,2 +1,1 @@
-@{selected|token_name} Rolled Initiative
-/gmroll 1d20 + @{selected|initiative_bonus} &{tracker}
+@{selected|token_name} rolled a [[1d20 + @{selected|initiative_bonus} &{tracker}]] for initiative
