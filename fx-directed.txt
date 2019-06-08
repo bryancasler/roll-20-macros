@@ -1,0 +1,1 @@
+/fx ?{Type|Beam, beam|Breath, breath|Splatter, splatter}-?{Color|Green Acid, acid|Blood, blood|Pink Charm, charm|Black Death, death|Fire, fire|Frost, frost|Holy Light, holy|Rainbow Magic, magic|Neon Slime, slime|Smoke, smoke|Water, water} @{target|Caster|token_id} @{target|Foe|token_id} 
