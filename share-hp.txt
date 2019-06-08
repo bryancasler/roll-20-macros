@@ -1,0 +1,1 @@
+/em has @{selected|HP} HP
