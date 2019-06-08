@@ -1,7 +1,7 @@
 ?{@{selected|character_name} has @{selected|HP}HP out of @{selected|HP|max} HP|
-I feel great, @{selected|character_name} say: I feel great|
-Don't worry about me, @{selected|character_name} say: Don't worry about me|
-I've had worst fights, @{selected|character_name} say: I've had worst fights|
-I'm starting to feel their attacks, @{selected|character_name} say: I'm starting to feel their attacks|
-I'm having trouble standing, @{selected|character_name} say: I'm having trouble standing|
-What's that light?, @{selected|character_name} say: What's that light?}
+I feel great, @{selected|character_name} says: I feel great|
+Don't worry about me, @{selected|character_name} says: Don't worry about me|
+I've had worst fights, @{selected|character_name} says: I've had worst fights|
+I'm starting to feel their attacks, @{selected|character_name} says: I'm starting to feel their attacks|
+I'm having trouble standing, @{selected|character_name} says: I'm having trouble standing|
+What's that light?, @{selected|character_name} says: What's that light?}
