@@ -1,0 +1,1 @@
+/w "@{Falcor|character_name}" &{template:default} {{name=Ghosts of Saltmarsh Players}} {{Bryan=Falcor}} {{Angela=Luri}} {{Becca=Mera}} {{Kit=Admar}} {{Rob=Cantinta}}
